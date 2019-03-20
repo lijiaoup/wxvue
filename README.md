@@ -1,2 +1,0 @@
-# wxvue
-vuedemo
