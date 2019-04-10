@@ -1,3 +1,4 @@
+/* eslint-disable */
 // rem适配
 !(function (win) {
   function resize() {
